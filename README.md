@@ -80,14 +80,6 @@ Real-time quiz & communication platform
 
 ---
 
-## 📊 GitHub Stats  
-
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
-
----
-
 ## 🏆 Achievements  
 
 - Solved **500+ problems** (LeetCode, GFG, CodeChef)  
@@ -99,9 +91,7 @@ Real-time quiz & communication platform
 ## 📫 Connect With Me  
 
 - 📧 Email: ankitksinghhh@gmail.com  
-- 💼 LinkedIn: YOUR_LINK  
-- 🧑‍💻 GitHub: YOUR_USERNAME  
-- 🧠 LeetCode: YOUR_PROFILE  
+- 💼 LinkedIn: https://www.linkedin.com/in/ankitsingh28   
 
 ---
 
